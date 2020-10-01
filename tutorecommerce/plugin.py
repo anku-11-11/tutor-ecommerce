@@ -1,4 +1,5 @@
-from glob import glob
+
+import glob
 import os
 
 from .__about__ import __version__
